@@ -1,5 +1,7 @@
 # Unreleased
 
+  * Add `set_fill` to supply the random source and make `rand` an optional (default) feature
+
 # 0.10.8
 
   * Wait for data acknowledgements before resetting streams #80
